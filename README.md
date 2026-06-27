@@ -98,22 +98,23 @@
 
 <div align="center">
 
-## 👋 Hey there, I'm Alif Hossen!
+## Hi there, I'm Alif Hossen.
 
-<!-- 🔧 Replace the line below with your own one-liner subtitle -->
-### 🎓 Computer Science Student &nbsp;|&nbsp; 💻 ML & Deep Learning Enthusiast  &nbsp;|&nbsp; 🌟 React + MySQL
+### 🎓 Computer Science Student
+I am deeply passionate about building intelligent systems and dynamic web applications. 
+---
 
+### 💻 Fields of Interest
+* **Artificial Intelligence:** Machine Learning, Deep Learning, Neural Networks
+* **Domain Focus:** Computer Vision
 <br/>
 
 <!-- 🔧 Write 3–4 sentences about who you are, what you build, and what you care about -->
 <p>
 I'm eagerly passionate about Machine Learning, Deep Learning, Neural Networks, and Computer Vision — turning intuitive, innovative ideas into elegant, impactful and scalable solutions.<br/>
-Whether it's building full-stack web apps, contributing to open source, or exploring new technologies,<br/>
-  I believe that <strong>great code is not just functional — it's a craft</strong>. 🚀<br/><br/>
   
- I love building end-to-end web applicationsusing <strong>React + MySQL</strong> and leverage <strong>Python</strong> for everything from model training to backend architecture.
+I love building end-to-end web applications using <strong>React + MySQL</strong> Node JS + Express</strong> Python</strong> for everything.  
 </p>
-
 
 </div>
 
@@ -148,9 +149,9 @@ Whether it's building full-stack web apps, contributing to open source, or explo
 | 🎓 | **B.Sc. in CSE** @ Gopalganj Scince and Technology University  |
 | 📍 | Based in **Gopalganj, Bangladesh** |
 | 🌱 | Currently learning **Deep Learning / SKILL** |
-| 💬 | Ask me about **** or **TOPIC 2** |
+| 💬 | Ask me about **** or ** ** |
 | 📫 | Reach me at **alif.ahs10e@gmail.com** |
-| ⚡ | Fun fact: **YOUR FUN FACT** |
+| ⚡ | Fun fact: ** ** |
 
 <!-- 🔧 Replace every value in the right column above -->
 
@@ -160,10 +161,10 @@ Whether it's building full-stack web apps, contributing to open source, or explo
 ### 🔭 What I'm Up To
 
 <!-- 🔧 Replace these bullet points with your own current activities -->
-- 🚀 Building **[YOUR PROJECT NAME](https://github.com/YOUR-USERNAME/YOUR-REPO)**
+- 🚀 Building **[<!--YOUR PROJECT NAME-->](https://github.com/YOUR-USERNAME/YOUR-REPO)** 
 - 🧠 Deep-diving into **TOPIC / FRAMEWORK / CONCEPT**
-- 🤝 Open to collaborating on **open source / startup ideas**
-- 📝 Writing about tech on **[YOUR BLOG](https://yourblogurl.com)**
+- 🤝 Open to collaborating on **open source / startup ideas** 
+- 📝 Writing about tech on **[YOUR BLOG](https://yourblogurl.com)** 
 - 🎮 Outside of code: **Sky, Lying on the Grass, Mountain, Green, English** 
 
 <!-- 🔧 Remove lines that don't apply — keep 4–5 bullets max -->
@@ -602,7 +603,7 @@ Whether it's building full-stack web apps, contributing to open source, or explo
 <div align="center">
   <br/>
   <!-- 🔧 This button links to all your repos — replace YOUR-USERNAME -->
-  <a href="https://github.com/YOUR-USERNAME?tab=repositories">
+  <a href="https://github.com/Alif-E7?tab=repositories">
     <img
       src="https://img.shields.io/badge/View%20All%20Projects%20→-6e40c9?style=for-the-badge&logo=github&logoColor=white"
       alt="View All Projects"
@@ -624,9 +625,9 @@ Whether it's building full-stack web apps, contributing to open source, or explo
 <!-- ═══════════════════════════════════════════════════════════════════════
   📚  SECTION 11 — CURRENTLY LEARNING
   ───────────────────────────────────────────────────────────────────────
-  🔧  Replace each row with what you're actively learning right now.
+  
   🔧  Progress bar guide (10 blocks total per bar):
-        ██████████  100%   ████████░░  80%   ██████░░░░  60%
+        █████████  100%   ████████░░  80%   ██████░░░░  60%
         ████░░░░░░   40%   ██░░░░░░░░  20%   ░░░░░░░░░░   0%
   🔧  Keep this to 4–6 topics max — it should feel current, not like a CV.
   🔧  The > quote at the bottom is your personal note for this section.
@@ -639,12 +640,12 @@ Whether it's building full-stack web apps, contributing to open source, or explo
 </div>
 
 <!-- 🔧 Fill in your active learning topics and honest progress estimates -->
-| 📖 &nbsp;Topic | Progress | Status |
+| 📖 &nbsp;Topic | Progress | Status | 
 |:---|:---:|:---|
-| **LEARNING TOPIC 1** | `████████░░` 80% | 🔧 E.g. "Building projects with it" |
-| **LEARNING TOPIC 2** | `██████░░░░` 60% | 🔧 E.g. "Working through the docs" |
-| **LEARNING TOPIC 3** | `████░░░░░░` 40% | 🔧 E.g. "Completed core concepts" |
-| **LEARNING TOPIC 4** | `██░░░░░░░░` 20% | 🔧 E.g. "Just getting started" |
+| **Numpy,Pandas,Matplotib,Sklearn** | `█████████░` 90% | 🔧 E.g. "Building projects with it" |
+| **React, NodeJs-Express, PostgreSql** | `█████░░░░` 50% | 🔧 E.g. "Building Projects" |
+| **Nural  Network** | `███░░░░░░░` 30% | 🔧 E.g. "Learning & Exploring through the Tutorials" |
+| **Deep Learning** | `██░░░░░░░░` 10% | 🔧 E.g. "Just getting started" |
 <!-- 🔧 Add or remove rows. Keep only topics you're genuinely working on. -->
 
 <br/>
@@ -677,11 +678,11 @@ Whether it's building full-stack web apps, contributing to open source, or explo
   <tr>
     <td width="50%" valign="top">
 
-**📅 &nbsp;2025 Goals**
+**📅 &nbsp;2026 Goals**
 
 <!-- 🔧 Replace these with your real short-term goals -->
 - [ ] 🚀 Launch **YOUR PROJECT NAME** to production
-- [ ] 🌟 Contribute to **5+ open source projects**
+- [ ] 🌟 Contribute to **3+ open source projects**
 - [ ] 📜 Earn **YOUR TARGET CERTIFICATION**
 - [ ] 📝 Publish **12 technical blog posts**
 - [ ] 🧑‍💻 Build and ship a SaaS product
@@ -871,8 +872,6 @@ I am currently here
 ---
 [![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/....) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/...) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/...) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/....) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
