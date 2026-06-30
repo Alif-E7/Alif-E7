@@ -43,7 +43,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=ALiF%20Hossen&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20Deep+Learning%20Nural+Network%20Here%20✨&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=ALiF%20Hossen&fontSize=54&fontColor=ffffff&animation=twinkling&descAlignY=58&descSize=20"
     width="100%"
     alt="Profile Header"
   />
@@ -149,9 +149,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 | 🎓 | **B.Sc. in CSE** @ Gopalganj Scince and Technology University  |
 | 📍 | Based in **Gopalganj, Bangladesh** |
 | 🌱 | Currently learning **Deep Learning / SKILL** |
-| 💬 | Ask me about **** or ** ** |
-| 📫 | Reach me at **alif.ahs10e@gmail.com** |
-| ⚡ | Fun fact: ** ** |
+
 
 <!-- 🔧 Replace every value in the right column above -->
 
@@ -161,27 +159,16 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ### 🔭 What I'm Up To
 
 <!-- 🔧 Replace these bullet points with your own current activities -->
-- 🚀 Building **[<!--YOUR PROJECT NAME-->](https://github.com/YOUR-USERNAME/YOUR-REPO)** 
+- 🚀 Building **[AI Based University Class Routine](https://github.com/ALif-E7/class_routine)** 
 - 🧠 Deep-diving into **TOPIC / FRAMEWORK / CONCEPT**
 - 🤝 Open to collaborating on **open source / startup ideas** 
-- 📝 Writing about tech on **[YOUR BLOG](https://yourblogurl.com)** 
-- 🎮 Outside of code: **Sky, Lying on the Grass, Mountain, Green, English** 
+- 🎮 Outside of code: **Green, Sky, River, Mountain | History, Civilization | Series** 
 
 <!-- 🔧 Remove lines that don't apply — keep 4–5 bullets max -->
 
 <br/>
 
-<details>
-  <summary>🎁 &nbsp;Click here for a fun fact about me</summary>
-  <br/>
-  <!-- 🔧 Replace this with your own fun fact, story, or quirky detail -->
-  🎯 <em><strong>YOUR FUN FACT OR PERSONAL STORY HERE.</strong><br/>
-  Keep it memorable and a little unexpected!</em>
-  <br/><br/>
-</details>
 
-  </td>
-  </tr>
 </table>
 
 > 💬 &nbsp;*""*
@@ -215,71 +202,51 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ---
 
 ### 💻 &nbsp;Programming Languages
-<!-- 🔧 Keep only the languages you actually use -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<!-- 🔧 Add more: Kotlin, Swift, PHP, Ruby, C#, Dart, Scala, R, etc. -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 <br/>
 
 ### 🤖 &nbsp;Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=for-the-badge&logo=seaborn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
+![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=seaborn&logoColor=white)
 
 <br/>
 
 ### 🧠 &nbsp;Deep Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 <br/>
 
 ### 🎨 &nbsp;Frontend Development
-<!-- 🔧 Keep only what you actually work with -->
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- 🔧 Add: Svelte, Astro, Three.js, Framer Motion, Redux, Zustand, etc. -->
-
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 <br/>
 
 ### ⚙️ &nbsp;Backend & Frameworks
-<!-- 🔧 Keep only what you actually work with -->
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-<!-- 🔧 Add: Flask, NestJS, Laravel, Rails, Gin, Fiber, tRPC, gRPC, etc. -->
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 <br/>
 
 ### 🗄️ &nbsp;Databases
-<!-- 🔧 Keep only the databases you've worked with -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-<!-- 🔧 Add: SQLite, Cassandra, DynamoDB, ClickHouse, Elasticsearch, Prisma, etc. -->
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <br/>
 
 ### ☁️ &nbsp;DevOps, Cloud & Tools
-<!-- 🔧 Keep only the tools you actually use -->
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<!-- 🔧 Add: Terraform, Ansible, Jenkins, Nginx, Vercel, Netlify, Postman, etc. -->
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 </div>
 
-> 💬 &nbsp;*"YOUR THOUGHT ON TECHNOLOGY — e.g. The best tool is the one that solves the problem elegantly."*
 
 <!-- 🔧 ↑ Share your philosophy on tech, or a one-liner about how you choose tools. -->
 
-<br/>
 
 ---
 
@@ -303,18 +270,10 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <br/>
 
-<!-- Stats card + Top Languages — side by side -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Alif-E7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Alif Hossen's%20GitHub%20Stats"
-  height="190"
-  alt="GitHub Stats"
-/> 
-&nbsp;&nbsp; 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif-E7&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages"  
-  height="190" 
-  alt="Top Languages" 
-/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Alif-E7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/><br/>
 
@@ -356,21 +315,15 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
 ## 🔥 Contribution Graph
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Alif Hossen's%20Contribution%20Activity"
-  width="100%"
-  alt="Contribution Graph"
-/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Alif%20Hossen's%20Contribution%20Activity" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 ---
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   📊  SECTION 8 — CONTRIBUTION SNAKE ANIMATION  [OPTIONAL]
@@ -426,25 +379,13 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 ## 📊 Contribution Snake
 
-<!-- GitHub's <picture> tag auto-picks dark/light based on the viewer's theme -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
-
 <br/>
 
 ---
@@ -464,11 +405,11 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-## 🏆 Achievements & Certifications
+<!--## 🏆 Achievements & Certifications
 
 </div>
 
-<!-- 🔧 Fill in your actual achievements. Template row is at the bottom. 
+ 🔧 Fill in your actual achievements. Template row is at the bottom. 
 | Type | Achievement | Issuer | Year | Verify |
 |:----:|:---|:---|:---:|:---:|
 | 📜 | **AWS Certified Solutions Architect — Associate** | Amazon Web Services | 2024 | [View 🔗](https://aws.amazon.com/verification) |
@@ -478,17 +419,14 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 | 🚀 | **100+ Stars on Open Source Project** | GitHub Community | 2023 | [View 🔗](https://github.com/YOUR-USERNAME/REPO) |
 | 🎓 | **Dean's List / Academic Excellence Award** | YOUR UNIVERSITY | 2022 | N/A |
 <!-- 🔧 Add more rows in this format:
-     | 📜 | **ACHIEVEMENT NAME** | ISSUER | YEAR | [View 🔗](URL) | -->
+     | 📜 | **ACHIEVEMENT NAME** | ISSUER | YEAR | [View 🔗](URL) | 
 
 <br/>
 
-> 💬 &nbsp;*"YOUR PERSONAL REFLECTION ON ACHIEVEMENT — e.g. Every certificate is a milestone, but the real reward is what you learned chasing it."*
+> 💬 &nbsp;*"YOUR PERSONAL REFLECTION ON ACHIEVEMENT — e.g. Every certificate is a milestone, but the real reward is what you learned chasing it."*-->
 
 <!-- 🔧 ↑ Write a short, honest thought about what your achievements mean to you. -->
 
-<br/>
-
----
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════
@@ -506,14 +444,16 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Alif-E7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in)
 ## 💼 Featured Projects
 
-</div>
-
-<table align="center" width="100%">
-  <tr>
-
-    <!-- ═══ PROJECT 1 — 🔧 Replace everything below ═══ -->
+<!-- 
+    ═══ PROJECT 1 — 🔧 Replace everything below ═══ 
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/YOUR-USERNAME/PROJECT-1-REPO">
         <img
@@ -524,17 +464,18 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
       </a>
       <br/>
       <p align="left">
-        <!-- 🔧 Project 1 details -->
+        🔧 Project 1 details 
         <strong>🚀 PROJECT 1 TITLE</strong><br/>
         📝 A one-sentence description of what this project does and why it exists.<br/>
         🛠 &nbsp;<code>React</code> <code>Node.js</code> <code>PostgreSQL</code><br/>
-        <!-- 🔧 Remove the Live Demo link if there's no deployed version -->
         <a href="https://yourproject1.com">🌐 Live Demo</a> &nbsp;·&nbsp;
         <a href="https://github.com/YOUR-USERNAME/PROJECT-1-REPO">📂 Repository</a>
       </p>
     </td>
+-->
 
-    <!-- ═══ PROJECT 2 — 🔧 Replace everything below ═══ -->
+<!-- 
+    ═══ PROJECT 2 — 🔧 Replace everything below ═══ 
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/YOUR-USERNAME/PROJECT-2-REPO">
         <img
@@ -545,7 +486,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
       </a>
       <br/>
       <p align="left">
-        <!-- 🔧 Project 2 details -->
+        🔧 Project 2 details 
         <strong>🚀 PROJECT 2 TITLE</strong><br/>
         📝 A one-sentence description of what this project does and why it exists.<br/>
         🛠 &nbsp;<code>Python</code> <code>FastAPI</code> <code>MongoDB</code><br/>
@@ -553,11 +494,10 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
         <a href="https://github.com/YOUR-USERNAME/PROJECT-2-REPO">📂 Repository</a>
       </p>
     </td>
+-->
 
-  </tr>
-  <tr>
-
-    <!-- ═══ PROJECT 3 — 🔧 Replace everything below ═══ -->
+<!-- 
+    ═══ PROJECT 3 — 🔧 Replace everything below ═══ 
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/YOUR-USERNAME/PROJECT-3-REPO">
         <img
@@ -568,7 +508,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
       </a>
       <br/>
       <p align="left">
-        <!-- 🔧 Project 3 details -->
+        🔧 Project 3 details 
         <strong>🚀 PROJECT 3 TITLE</strong><br/>
         📝 A one-sentence description of what this project does and why it exists.<br/>
         🛠 &nbsp;<code>TypeScript</code> <code>Next.js</code> <code>Tailwind</code><br/>
@@ -576,8 +516,10 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
         <a href="https://github.com/YOUR-USERNAME/PROJECT-3-REPO">📂 Repository</a>
       </p>
     </td>
+-->
 
-    <!-- ═══ PROJECT 4 — 🔧 Replace everything below ═══ -->
+<!-- 
+    ═══ PROJECT 4 — 🔧 Replace everything below ═══ 
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/YOUR-USERNAME/PROJECT-4-REPO">
         <img
@@ -588,7 +530,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
       </a>
       <br/>
       <p align="left">
-        <!-- 🔧 Project 4 details -->
+        🔧 Project 4 details 
         <strong>🚀 PROJECT 4 TITLE</strong><br/>
         📝 A one-sentence description of what this project does and why it exists.<br/>
         🛠 &nbsp;<code>Go</code> <code>Docker</code> <code>Redis</code><br/>
@@ -596,9 +538,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
         <a href="https://github.com/YOUR-USERNAME/PROJECT-4-REPO">📂 Repository</a>
       </p>
     </td>
-
-  </tr>
-</table>
+-->
 
 <div align="center">
   <br/>
@@ -613,7 +553,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <br/>
 
-> 💬 &nbsp;*"YOUR THOUGHT ON BUILDING — e.g. I build things to solve real problems, not to impress algorithms."*
+> 💬 &nbsp;*"I build things to solve real problems and to break my comfort zone"*
 
 <!-- 🔧 ↑ Share what drives you to build the projects you work on. -->
 
@@ -650,8 +590,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <br/>
 
-> 💬 &nbsp;*"YOUR PERSONAL NOTE ON LEARNING — e.g. The moment I stop being a beginner at something new is the moment I know I've grown."*
-
 <!-- 🔧 ↑ Write what learning means to you, or a note about your current focus. -->
 
 <br/>
@@ -681,13 +619,8 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 **📅 &nbsp;2026 Goals**
 
 <!-- 🔧 Replace these with your real short-term goals -->
-- [ ] 🚀 Launch **YOUR PROJECT NAME** to production
-- [ ] 🌟 Contribute to **3+ open source projects**
-- [ ] 📜 Earn **YOUR TARGET CERTIFICATION**
-- [ ] 📝 Publish **12 technical blog posts**
-- [ ] 🧑‍💻 Build and ship a SaaS product
-- [x] ✅ Build a full-stack application solo
-- [x] ✅ Land first developer internship / role
+Hidden...
+
 
 <!-- 🔧 Mark completed goals with [x] — they render as checked boxes on GitHub -->
 
@@ -697,12 +630,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 **🔭 &nbsp;Long-Term Vision**
 
 <!-- 🔧 Replace these with your big-picture ambitions -->
-- [ ] 🌍 Build a product used by **1M+ people**
-- [ ] 🤝 Lead and **mentor an engineering team**
-- [ ] 📖 Write a **technical book or course**
-- [ ] 🏢 **Found or co-found a startup** that matters
-- [ ] 🌐 Speak at a **major tech conference**
-- [ ] 🎓 Contribute to research in **YOUR FIELD**
+Hidden...
 
 <!-- 🔧 Dream big — this is your public vision board -->
 
@@ -712,7 +640,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <br/>
 
-> 💬 &nbsp;*"YOUR PERSONAL MOTIVATIONAL NOTE — the one thing that pushes you forward every single day."*
+> 💬 &nbsp;*"I worked 80H A Week and People called it success-x"*
 
 <!--
   🔧 ↑ THIS IS THE "PERSONAL FOOTER NOTE" SECTION.
@@ -746,33 +674,27 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <br/>
 
-<!-- 🔧 Replace each URL with your actual profile link -->
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/YOUR-TWITTER-HANDLE">
-  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-</a>
-&nbsp;
-<a href="https://YOUR-PORTFOLIO-URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR@EMAIL.COM">
+<a href="alif.ahs10e@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
-<!-- 🔧 Remove the next two badges if you don't have a blog -->
-<a href="https://dev.to/YOUR-DEVTO-USERNAME">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+
+<a href="https://facebook.com/e7.space1">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 &nbsp;
-<a href="https://medium.com/@YOUR-MEDIUM-USERNAME">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+<!-- 🔧 Replace each URL with your actual profile link -->
+<a href="https://t.me/Alif_E7">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 &nbsp;
+<a href="https://linkedin.com/in/alif-hossain-51096930a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+
+
+
 <!-- 🔧 Optional: Discord, YouTube, Instagram, Stack Overflow, Telegram -->
 <!-- Example Discord badge:
 <a href="https://discord.gg/YOUR-SERVER-ID">
@@ -783,8 +705,12 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 <br/><br/>
 
 <!-- 🔧 Replace this invitation message with your own open-to-connect note -->
-<p>
-  <em>💬 &nbsp;I'm always open to interesting conversations, collaboration opportunities, or just a good tech discussion.</em><br/>
+### 💡 I'm particularly interested in:
+
+- <em>🚀 Startups — AI products, MVPs, tech ventures</em>
+- <em>💼 Partnerships — Building innovative solutions</em>
+- <em>🔬 Research — Deep learning, computer vision</em>
+
   📬 &nbsp;<strong>Response time: usually within 24 hours</strong>
   <!-- 🔧 Remove or update the response time line above -->
 </p>
@@ -803,26 +729,28 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
   🔧  text=  → Change or remove the footer message (encode spaces as %20)
   🔧  Leave text= empty for a clean wave with no text at all
 ═══════════════════════════════════════════════════════════════════════ -->
+---
 
-<div align="center">
+---
 
-<br/>
-
-<!-- 🔧 Replace this closing line with your own, or remove the <p> block -->
-<p>
-  <em>⭐ &nbsp;If you found something useful here, a star on any of my repos goes a long way — thank you!</em>
+<p align="center">
+  <b>✧  ✧  ✧</b>
 </p>
 
-<br/>
+<p align="center">
+  <i>
+    Lying on the grass, surrounded by flowers,<br>
+    looking the sky and the flowing river.<br>
+    I think it won't last — the sun is about to set.
+  </i>
+</p>
 
-<!-- Footer wave — mirrors the header gradient exactly -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!%20Come%20back%20soon.%20🙌&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=72"
-  width="100%"
-  alt="Footer"
-/>
+---
+<p align="center">
+  <b>✨ Thank you. Stay happy. ✨</b>
+</p>
 
-</div>
+---
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════
@@ -840,37 +768,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ═══════════════════════════════════════════════════════════════════════ -->
 
 
-
-
-
-
-
-
-
-
-
-# 💫 About Me:
-I am currently here
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/e7.space1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alif.ahs10e@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Alif-E7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Alif-E7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   
