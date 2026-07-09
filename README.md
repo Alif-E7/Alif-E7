@@ -148,7 +148,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 |:---:|:---|
 | 🎓 | **B.Sc. in CSE** @ Gopalganj Scince and Technology University  |
 | 📍 | Based in **Gopalganj, Bangladesh** |
-| 🌱 | Currently learning **Deep Learning / SKILL** |
+| 🌱 | Currently learning **NN** |
 
 
 <!-- 🔧 Replace every value in the right column above -->
