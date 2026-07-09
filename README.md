@@ -160,7 +160,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <!-- 🔧 Replace these bullet points with your own current activities -->
 - 🚀 Building **[AI Based University Class Routine](https://github.com/ALif-E7/class_routine)** 
-- 🧠 Deep-diving into **TOPIC / FRAMEWORK / CONCEPT**
+- 🧠 Deep-diving into **DL & Computer Vision**
 - 🤝 Open to collaborating on **open source / startup ideas** 
 - 🎮 Outside of code: **Green, Sky, River, Mountain | History, Civilization | Series** 
 
@@ -289,11 +289,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ═══════════════════════════════════════════════════════════════════════ --> 
 
 <!-- Streak card — full width --> 
-<img
-  src="https://streak-stats.demolab.com/?user=Alif-E7&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=6e40c9&ring=6e40c9&fire=f59e0b&currStreakLabel=6e40c9" 
-  width="70%" 
-  alt="GitHub Streak"
-/>
+
 
 </div>
 
@@ -301,6 +297,14 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 ---
 
+<div align="center">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Alif%20Hossen's%20Contribution%20Activity" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   🔥  SECTION 7 — CONTRIBUTION GRAPH
@@ -313,15 +317,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
         gruvbox | merko | react-dark | rogue | xcode
   🔧  area=true adds a shaded fill under the graph line
 ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-## 🔥 Contribution Graph
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Alif%20Hossen's%20Contribution%20Activity" width="100%" alt="Contribution Graph" />
-</div>
-
-<br/>
 
 ---
 
@@ -739,15 +734,15 @@ Hidden...
 
 <p align="center">
   <i>
-    Lying on the grass, surrounded by flowers,<br>
-    looking the sky and the flowing river.<br>
+    Lying on the grass- Grass flowers,<br>
+    Blue sky and river flowing.<br>
     I think it won't last — the sun is about to set.
   </i>
 </p>
 
 ---
 <p align="center">
-  <b>✨ Thank you. Stay happy. ✨</b>
+  <b>✨ Thank you.✨</b>
 </p>
 
 ---
