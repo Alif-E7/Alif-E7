@@ -100,9 +100,9 @@
 ### 💡 I'm Alif Hossen Here and I'm particularly interested in:
 
 
-- <em> Startups — AI products, MVPs, tech ventures</em>
-- <em> Partnerships — Building innovative solutions</em>
-- <em> Research — Computer Vision</em>
+- <em> > Startups — AI products, MVPs, tech ventures <</em>
+- <em> > Partnerships — Building innovative solutions <</em>
+- <em> > Research — Computer Vision <</em>
 
 <!-- 🔧 Write 3–4 sentences about who you are, what you build, and what you care about -->
 
@@ -111,7 +111,6 @@
 
 <br/>
 
----
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════
@@ -185,7 +184,6 @@
 
 ## 🛠️ Tech Stack
 
----
 
 ### &nbsp; Programming Languages
 
@@ -272,15 +270,15 @@
 
 <br/>
 
----
 
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Alif%20Hossen's%20Contribution%20Activity" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
 </div>
 
 <br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════
@@ -295,7 +293,6 @@
   🔧  area=true adds a shaded fill under the graph line
 ═══════════════════════════════════════════════════════════════════════ -->
 
----
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   📊  SECTION 8 — CONTRIBUTION SNAKE ANIMATION  [OPTIONAL]
@@ -347,8 +344,6 @@
       Then DELETE these setup instructions once it's working.
 ═══════════════════════════════════════════════════════════════════════ -->
 
----
-
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   🏆  SECTION 9 — ACHIEVEMENTS & CERTIFICATIONS
@@ -362,7 +357,6 @@
   🔧  The > quote below the table is your personal note for this section.
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
 <!--## 🏆 Achievements & Certifications
 
@@ -549,26 +543,36 @@
 
 <br/>
 
----
-
-
-<div align="center">
 
 ## ⚙️ Goals
 
-<table align="center" style="width: 100%; min-width: 100%; table-layout: fixed;">
+</div>
+
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="padding-right: 20px;">
+    <td style="width: 60%; vertical-align: top;">
 
-** &nbsp; TO-Do**
+**📅 &nbsp; TO-Do**
+
+<!-- 🔧 Replace these with your real short-term goals -->
 Hidden...
 
-** &nbsp; Vision**
+
+<!-- 🔧 Mark completed goals with [x] — they render as checked boxes on GitHub -->
+
+  </td>
+    <td style="width: 40%; vertical-align: top;">
+
+**🔭 &nbsp; Vision**
+
+<!-- 🔧 Replace these with your big-picture ambitions -->
 Hidden...
+
+<!-- 🔧 Dream big — this is your public vision board -->
+
+  </td>
   </tr>
 </table>
-
-<br/>
 
 <br/>
 
@@ -579,10 +583,10 @@ Hidden...
 ---
 
 
-<div align="center">
+<div align="center"> 
+  
 ## 🌐 Connect With Me
 
-<br/>
 
 <a href="alif.ahs10e@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -606,12 +610,13 @@ Hidden...
 </div>
 
 <br/>
-<br/>
-<br/>
+
 
 <br/>
 <br/>
 <br/>
+
+---
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   ✨  SECTION 14 — ANIMATED WAVE FOOTER
@@ -620,7 +625,7 @@ Hidden...
   🔧  text=  → Change or remove the footer message (encode spaces as %20)
   🔧  Leave text= empty for a clean wave with no text at all
 ═══════════════════════════════════════════════════════════════════════ -->
----
+
 
 
 <p align="center">
@@ -635,18 +640,21 @@ Hidden...
   </i>
 </p>
 
+<div align="center">  
 ...
 ...
 ...
+</div>
 </br>
 </br>
 </br>
 > 💬 &nbsp;*"Competition in [worldly] increase diverts you, untill you end up in your graves.[102:1-2]"* 
 
+</br>
+</br>
+
 
 ---
-
-
 <!-- ═══════════════════════════════════════════════════════════════════════
   📌  QUICK REFERENCE — ALL SERVICES USED
   ─────────────────────────────────────────────────────────────────────
