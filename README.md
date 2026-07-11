@@ -1,3 +1,5 @@
+
+
 <!--
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                  🚀  GITHUB PROFILE README TEMPLATE                      ║
@@ -63,10 +65,7 @@
 ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&height=55&lines=👋+Hey!+I'm+ALiF+Hossain;💻+ML+Deep+Learning;🌟+Javascript+HTML+CSS;Node+JS+ +Express;🚀+Always+Learning%2C+Always+Growing;☕+Fuelled+by+%26+Curiosity"
-    alt="Typing animation"
-  />
+
 
   <br/><br/>
 
@@ -98,23 +97,15 @@
 
 <div align="center">
 
-## Hi there, I'm Alif Hossen.
+### 💡 I'm Alif Hossen Here and I'm particularly interested in:
 
-### 🎓 Computer Science Student
-I am deeply passionate about building intelligent systems and dynamic web applications. 
----
 
-### 💻 Fields of Interest
-* **Artificial Intelligence:** Machine Learning, Deep Learning, Neural Networks
-* **Domain Focus:** Computer Vision
-<br/>
+- <em> Startups — AI products, MVPs, tech ventures</em>
+- <em> Partnerships — Building innovative solutions</em>
+- <em> Research — Computer Vision</em>
 
 <!-- 🔧 Write 3–4 sentences about who you are, what you build, and what you care about -->
-<p>
-I'm eagerly passionate about Machine Learning, Deep Learning, Neural Networks, and Computer Vision — turning intuitive, innovative ideas into elegant, impactful and scalable solutions.<br/>
-  
-I love building end-to-end web applications using <strong>React + MySQL</strong> Node JS + Express</strong> Python</strong> for everything.  
-</p>
+
 
 </div>
 
@@ -134,7 +125,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-## 🙋 About Me
+## About Me
 
 </div>
 
@@ -147,7 +138,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 | | |
 |:---:|:---|
 | 🎓 | **B.Sc. in CSE** @ Gopalganj Scince and Technology University  |
-| 📍 | Based in **Gopalganj, Bangladesh** |
 | 🌱 | Currently learning **NN** |
 
 
@@ -159,10 +149,8 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ### 🔭 What I'm Up To
 
 <!-- 🔧 Replace these bullet points with your own current activities -->
-- 🚀 Building **[AI Based University Class Routine](https://github.com/ALif-E7/class_routine)** 
-- 🧠 Deep-diving into **DL & Computer Vision**
-- 🤝 Open to collaborating on **open source / startup ideas** 
-- 🎮 Outside of code: **Green, Sky, River, Mountain | History, Civilization | Series** 
+-  Building **[AI Based University Class Routine Maker](https://github.com/ALif-E7/class_routine)** 
+-  Outside of code: **Green, Sky, River, Mountain | History, Civilization | Series** 
 
 <!-- 🔧 Remove lines that don't apply — keep 4–5 bullets max -->
 
@@ -170,8 +158,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 
 </table>
-
-> 💬 &nbsp;*""*
 
 <!-- 🔧 ↑ Replace this with your own words. It appears as a styled quote block on GitHub. -->
 
@@ -197,51 +183,46 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ---
 
-### 💻 &nbsp;Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### &nbsp; Programming Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
+  </a>
+</p>
 
 <br/>
 
-### 🤖 &nbsp;Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+###  &nbsp;ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=grey) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=seaborn&logoColor=blue)
 
 <br/>
 
-### 🧠 &nbsp;Deep Learning & Computer Vision
+###  &nbsp;Nural Network, DL & CV
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
 <br/>
 
-### 🎨 &nbsp;Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+###  &nbsp;Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=grey)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 <br/>
 
-### ⚙️ &nbsp;Backend & Frameworks
+###  &nbsp;Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 <br/>
 
-### 🗄️ &nbsp;Databases
+###  &nbsp;Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 <br/>
-
-### ☁️ &nbsp;DevOps, Cloud & Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 </div>
 
 
@@ -266,11 +247,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-## 📈 GitHub Stats
-
-<br/>
-
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Alif-E7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -370,19 +347,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
       Then DELETE these setup instructions once it's working.
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-## 📊 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Alif-E7/Alif-E7/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-<br/>
-
 ---
 
 
@@ -439,13 +403,13 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alif-E7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in)
-## 💼 Featured Projects
+[![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in) !-->
+## 🧰 Projects
 
 <!-- 
     ═══ PROJECT 1 — 🔧 Replace everything below ═══ 
@@ -546,10 +510,6 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
   </a>
 </div>
 
-<br/>
-
-> 💬 &nbsp;*"I build things to solve real problems and to break my comfort zone"*
-
 <!-- 🔧 ↑ Share what drives you to build the projects you work on. -->
 
 <br/>
@@ -570,7 +530,7 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 
 <div align="center">
 
-## 📚 Currently Learning
+## 🪜 Learning
 
 </div>
 
@@ -578,9 +538,9 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 | 📖 &nbsp;Topic | Progress | Status | 
 |:---|:---:|:---|
 | **Numpy,Pandas,Matplotib,Sklearn** | `█████████░` 90% | 🔧 E.g. "Building projects with it" |
-| **React, NodeJs-Express, PostgreSql** | `█████░░░░` 50% | 🔧 E.g. "Building Projects" |
+| **React, NodeJs-Express, MySql** | `██████░░░` 60% | 🔧 E.g. "Building Projects" |
 | **Nural  Network** | `███░░░░░░░` 30% | 🔧 E.g. "Learning & Exploring through the Tutorials" |
-| **Deep Learning** | `██░░░░░░░░` 10% | 🔧 E.g. "Just getting started" |
+| **Deep Learning** | `█░░░░░░░░` 5% | 🔧 E.g. "Just getting started" |
 <!-- 🔧 Add or remove rows. Keep only topics you're genuinely working on. -->
 
 <br/>
@@ -592,79 +552,34 @@ I love building end-to-end web applications using <strong>React + MySQL</strong>
 ---
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-  🎯  SECTION 12 — GOALS
-  ───────────────────────────────────────────────────────────────────────
-  🔧  Replace every goal on both sides with your own — be honest and specific.
-  🔧  Use [ ] for goals in progress and [x] for completed ones.
-  🔧  The > quote at the bottom is the "personal footer note" you mentioned —
-      perfect for something like: "These goals always push me to step forward."
-═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🎯 Goals
+## ⚙️ Goals
 
-</div>
-
-<table align="center" width="100%">
+<table align="center" style="width: 100%; min-width: 100%; table-layout: fixed;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-right: 20px;">
 
-**📅 &nbsp;2026 Goals**
-
-<!-- 🔧 Replace these with your real short-term goals -->
+** &nbsp; TO-Do**
 Hidden...
 
-
-<!-- 🔧 Mark completed goals with [x] — they render as checked boxes on GitHub -->
-
-  </td>
-  <td width="50%" valign="top">
-
-**🔭 &nbsp;Long-Term Vision**
-
-<!-- 🔧 Replace these with your big-picture ambitions -->
+** &nbsp; Vision**
 Hidden...
-
-<!-- 🔧 Dream big — this is your public vision board -->
-
-  </td>
   </tr>
 </table>
 
 <br/>
 
-> 💬 &nbsp;*"I worked 80H A Week and People called it success-x"*
+<br/>
 
-<!--
-  🔧 ↑ THIS IS THE "PERSONAL FOOTER NOTE" SECTION.
-     Replace the quote above with your own words.
-     Examples:
-       "These goals always push me to take one more step forward."
-       "Progress over perfection — every day, a little better."
-       "I don't compete with others. I compete with who I was yesterday."
--->
+> 💬 &nbsp;*"I worked 80H A Week and People called it success-x"*
 
 <br/>
 
 ---
 
 
-<!-- ═══════════════════════════════════════════════════════════════════════
-  🌐  SECTION 13 — CONNECT WITH ME
-  ───────────────────────────────────────────────────────────────────────
-  🔧  Replace each href URL with your actual profile link.
-  🔧  Remove any platform badges you don't use.
-  🔧  Add more platforms by copying a badge block and changing:
-        href="YOUR-PROFILE-URL"
-        logo=PLATFORM-SLUG (from simpleicons.org)
-        color=BRAND-HEX
-        The label text at the start of the badge URL
-═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
 ## 🌐 Connect With Me
 
 <br/>
@@ -687,35 +602,16 @@ Hidden...
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-
-
-
-<!-- 🔧 Optional: Discord, YouTube, Instagram, Stack Overflow, Telegram -->
-<!-- Example Discord badge:
-<a href="https://discord.gg/YOUR-SERVER-ID">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
--->
-
-<br/><br/>
-
-<!-- 🔧 Replace this invitation message with your own open-to-connect note -->
-### 💡 I'm particularly interested in:
-
-- <em>🚀 Startups — AI products, MVPs, tech ventures</em>
-- <em>💼 Partnerships — Building innovative solutions</em>
-- <em>🔬 Research — Deep learning, computer vision</em>
-
-  📬 &nbsp;<strong>Response time: usually within 24 hours</strong>
-  <!-- 🔧 Remove or update the response time line above -->
-</p>
-
+<>
 </div>
 
 <br/>
+<br/>
+<br/>
 
----
-
+<br/>
+<br/>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════
   ✨  SECTION 14 — ANIMATED WAVE FOOTER
@@ -726,7 +622,6 @@ Hidden...
 ═══════════════════════════════════════════════════════════════════════ -->
 ---
 
----
 
 <p align="center">
   <b>✧  ✧  ✧</b>
@@ -734,16 +629,20 @@ Hidden...
 
 <p align="center">
   <i>
-    Lying on the grass- Grass flowers,<br>
-    Blue sky and river flowing.<br>
-    I think it won't last — the sun is about to set.
+    Lying on the grass — surrounded by flowers, <br>
+    Clouds in the sky, and nearby the river is flowing.<br>
+    It won't last though bcz the sun is about to set.
   </i>
 </p>
 
----
-<p align="center">
-  <b>✨ Thank you.✨</b>
-</p>
+...
+...
+...
+</br>
+</br>
+</br>
+> 💬 &nbsp;*"Competition in [worldly] increase diverts you, untill you end up in your graves.[102:1-2]"* 
+
 
 ---
 
