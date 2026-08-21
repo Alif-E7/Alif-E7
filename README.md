@@ -358,25 +358,24 @@
 ═══════════════════════════════════════════════════════════════════════ -->
 
 
-<!--## 🏆 Achievements & Certifications
+## 🏆 Achievements & Certifications
 
 </div>
 
- 🔧 Fill in your actual achievements. Template row is at the bottom. 
 | Type | Achievement | Issuer | Year | Verify |
 |:----:|:---|:---|:---:|:---:|
-| 📜 | **AWS Certified Solutions Architect — Associate** | Amazon Web Services | 2024 | [View 🔗](https://aws.amazon.com/verification) |
-| 📜 | **Google Cloud Professional Data Engineer** | Google Cloud | 2024 | [View 🔗](https://cloud.google.com/certification) |
-| 🏆 | **1st Place — YOUR HACKATHON NAME** | Organizer Name | 2023 | [View 🔗](https://devpost.com) |
+| 📜 | **Advanced Learning Algorithms by DeepLearning.AI** | Coursera | 2026 | [View 🔗]([https://aws.amazon.com/verification](https://coursera.org/share/198a3c31e70fc15391993b2b52119528)) |
+| 📜 | **Supervised Machine Learning: Regression and Classification by DeepLearning.AI** | Coursera | 2026 | [View 🔗]([https://cloud.google.com/certification](https://coursera.org/share/198a3c31e70fc15391993b2b52119528)) |
+<!-- | 🏆 | **1st Place — YOUR HACKATHON NAME** | Organizer Name | 2023 | [View 🔗](https://devpost.com) |
 | 🎖️ | **YOUR SCHOLARSHIP / HONOR NAME** | Issuing Organization | 2023 | N/A |
 | 🚀 | **100+ Stars on Open Source Project** | GitHub Community | 2023 | [View 🔗](https://github.com/YOUR-USERNAME/REPO) |
-| 🎓 | **Dean's List / Academic Excellence Award** | YOUR UNIVERSITY | 2022 | N/A |
+| 🎓 | **Dean's List / Academic Excellence Award** | YOUR UNIVERSITY | 2022 | N/A | -->
 <!-- 🔧 Add more rows in this format:
      | 📜 | **ACHIEVEMENT NAME** | ISSUER | YEAR | [View 🔗](URL) | 
 
 <br/>
 
-> 💬 &nbsp;*"YOUR PERSONAL REFLECTION ON ACHIEVEMENT — e.g. Every certificate is a milestone, but the real reward is what you learned chasing it."*-->
+> 💬 &nbsp;*"YOUR PERSONAL REFLECTION ON ACHIEVEMENT — e.g. Every certificate is a milestone, but the real reward is what you learned chasing it."*
 
 <!-- 🔧 ↑ Write a short, honest thought about what your achievements mean to you. -->
 
