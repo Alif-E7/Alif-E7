@@ -122,7 +122,7 @@
   🔧  The > blockquote at the bottom is your personal note for this section.
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<div>
 
 ## About Me
 
@@ -180,10 +180,11 @@
     https://img.shields.io/badge/LABEL-HEX?style=for-the-badge&logo=SLUG&logoColor=white
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+
 
 ## 🛠️ Tech Stack
 
+<div align="center">
 
 ### &nbsp; Programming Languages
 
@@ -243,9 +244,9 @@
   🔧  langs_count= → how many languages to show in the pie card (max 20)
 ═══════════════════════════════════════════════════════════════════════ -->
 
+# 📈 GitHub Stats: 
 <div align="center">
 
-# 📈 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Alif-E7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alif-E7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -358,24 +359,23 @@
 ═══════════════════════════════════════════════════════════════════════ -->
 
 
-## 🏆 Achievements & Certifications
+# 🏆 Achievements & Certifications
+<br/>
 
-</div>
+<div align="center">
 
 | Type | Achievement | Issuer | Year | Verify |
 |:----:|:---|:---|:---:|:---:|
 | 📜 | **Advanced Learning Algorithms by DeepLearning.AI** | Coursera | 2026 | [View 🔗]([https://aws.amazon.com/verification](https://coursera.org/share/198a3c31e70fc15391993b2b52119528)) |
 | 📜 | **Supervised Machine Learning: Regression and Classification by DeepLearning.AI** | Coursera | 2026 | [View 🔗]([https://cloud.google.com/certification](https://coursera.org/share/198a3c31e70fc15391993b2b52119528)) |
+
+</div>
 <!-- | 🏆 | **1st Place — YOUR HACKATHON NAME** | Organizer Name | 2023 | [View 🔗](https://devpost.com) |
 | 🎖️ | **YOUR SCHOLARSHIP / HONOR NAME** | Issuing Organization | 2023 | N/A |
 | 🚀 | **100+ Stars on Open Source Project** | GitHub Community | 2023 | [View 🔗](https://github.com/YOUR-USERNAME/REPO) |
 | 🎓 | **Dean's List / Academic Excellence Award** | YOUR UNIVERSITY | 2022 | N/A | -->
 <!-- 🔧 Add more rows in this format:
      | 📜 | **ACHIEVEMENT NAME** | ISSUER | YEAR | [View 🔗](URL) | 
-
-<br/>
-
-> 💬 &nbsp;*"YOUR PERSONAL REFLECTION ON ACHIEVEMENT — e.g. Every certificate is a milestone, but the real reward is what you learned chasing it."*
 
 <!-- 🔧 ↑ Write a short, honest thought about what your achievements mean to you. -->
 
@@ -394,7 +394,6 @@
   🔧  The > quote at the bottom is your personal note for this section.
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
 
 <!--
 ### 🔝 Top Contributed Repo
@@ -402,95 +401,38 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Alif-E7&icon=0&color=0)](https://visitcount.itsvg.in) !-->
-## 🧰 Projects
+---
 
-<!-- 
-    ═══ PROJECT 1 — 🔧 Replace everything below ═══ 
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-1-REPO">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-1-REPO&theme=tokyonight&hide_border=true&show_owner=true"
-          alt="Project 1"
-          width="100%"
-        />
-      </a>
-      <br/>
-      <p align="left">
-        🔧 Project 1 details 
-        <strong>🚀 PROJECT 1 TITLE</strong><br/>
-        📝 A one-sentence description of what this project does and why it exists.<br/>
-        🛠 &nbsp;<code>React</code> <code>Node.js</code> <code>PostgreSQL</code><br/>
-        <a href="https://yourproject1.com">🌐 Live Demo</a> &nbsp;·&nbsp;
-        <a href="https://github.com/YOUR-USERNAME/PROJECT-1-REPO">📂 Repository</a>
-      </p>
-    </td>
--->
 
-<!-- 
-    ═══ PROJECT 2 — 🔧 Replace everything below ═══ 
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-2-REPO">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-2-REPO&theme=tokyonight&hide_border=true&show_owner=true"
-          alt="Project 2"
-          width="100%"
-        />
-      </a>
-      <br/>
-      <p align="left">
-        🔧 Project 2 details 
-        <strong>🚀 PROJECT 2 TITLE</strong><br/>
-        📝 A one-sentence description of what this project does and why it exists.<br/>
-        🛠 &nbsp;<code>Python</code> <code>FastAPI</code> <code>MongoDB</code><br/>
-        <a href="https://yourproject2.com">🌐 Live Demo</a> &nbsp;·&nbsp;
-        <a href="https://github.com/YOUR-USERNAME/PROJECT-2-REPO">📂 Repository</a>
-      </p>
-    </td>
--->
+# 🧰 Featured Projects
 
-<!-- 
-    ═══ PROJECT 3 — 🔧 Replace everything below ═══ 
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-3-REPO">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-3-REPO&theme=tokyonight&hide_border=true&show_owner=true"
-          alt="Project 3"
-          width="100%"
-        />
-      </a>
-      <br/>
-      <p align="left">
-        🔧 Project 3 details 
-        <strong>🚀 PROJECT 3 TITLE</strong><br/>
-        📝 A one-sentence description of what this project does and why it exists.<br/>
-        🛠 &nbsp;<code>TypeScript</code> <code>Next.js</code> <code>Tailwind</code><br/>
-        <a href="https://yourproject3.com">🌐 Live Demo</a> &nbsp;·&nbsp;
-        <a href="https://github.com/YOUR-USERNAME/PROJECT-3-REPO">📂 Repository</a>
-      </p>
-    </td>
--->
+### 🎯 Project: Class Routine Generator
+**Automated University Class Schedule Management System**
 
-<!-- 
-    ═══ PROJECT 4 — 🔧 Replace everything below ═══ 
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/YOUR-USERNAME/PROJECT-4-REPO">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=PROJECT-4-REPO&theme=tokyonight&hide_border=true&show_owner=true"
-          alt="Project 4"
-          width="100%"
-        />
-      </a>
-      <br/>
-      <p align="left">
-        🔧 Project 4 details 
-        <strong>🚀 PROJECT 4 TITLE</strong><br/>
-        📝 A one-sentence description of what this project does and why it exists.<br/>
-        🛠 &nbsp;<code>Go</code> <code>Docker</code> <code>Redis</code><br/>
-        <a href="https://yourproject4.com">🌐 Live Demo</a> &nbsp;·&nbsp;
-        <a href="https://github.com/YOUR-USERNAME/PROJECT-4-REPO">📂 Repository</a>
-      </p>
-    </td>
--->
+<div align="center">
+
+![Production Status](https://img.shields.io/badge/Status-Production-deepgreen?logo=rocket)
+![University Deployment](https://img.shields.io/badge/GSTU-Deployed-blue)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-success)](https://gstu-class-routine.vercel.app/) 
+</div>
+
+#### 📄 Project Description
+
+**Currently deployed at Gopalganj Science and Technology University** — Class Routine Generator automates timetabling for academic departments. It solves complex constraint-satisfaction scheduling problems by ingesting department data from Excel files and generating optimized, collision-free weekly routines in seconds.
+
+#### ✨ Key Features
+
+| Feature | Description |
+|:--------|:------------|
+| **⚡ Constraint-Based Scheduling** | Backtracking algorithm with bin-packing eliminates teacher/room conflicts |
+| **📂 Excel Ingestion** | Upload spreadsheets for courses, teachers, and classroom inventory |
+| **🖥️ Interactive Timetable** | Filter by batch/teacher/room with real-time adjustments |
+| **🤖 AI Assistant** | LLM-powered diagnostics via OpenRouter for conflict resolution |
+| **📄 PDF Export** | Generate publication-ready timetable documents |
+
+
+#### 🌐 [Live Demo →](https://gstu-class-routine.vercel.app/)
+
 
 <div align="center">
   <br/>
@@ -507,7 +449,6 @@
 
 <br/>
 
----
 
 
 <!-- ═══════════════════════════════════════════════════════════════════════
@@ -521,13 +462,13 @@
   🔧  The > quote at the bottom is your personal note for this section.
 ═══════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
 
 ## 🪜 Learning
 
 </div>
 
-<!-- 🔧 Fill in your active learning topics and honest progress estimates -->
+<!-- 🔧 Fill in your active learning topics and honest progress estimates 
 | 📖 &nbsp;Topic | Progress | Status | 
 |:---|:---:|:---|
 | **Numpy,Pandas,Matplotib,Sklearn** | `█████████░` 90% | 🔧 E.g. "Building projects with it" |
@@ -543,7 +484,7 @@
 <br/>
 
 
-## ⚙️ Goals
+<!-- ## ⚙️ Goals
 
 </div>
 
@@ -554,10 +495,10 @@
 **📅 &nbsp; TO-Do**
 
 <!-- 🔧 Replace these with your real short-term goals -->
-Hidden...
 
 
-<!-- 🔧 Mark completed goals with [x] — they render as checked boxes on GitHub -->
+
+<!-- 🔧 Mark completed goals with [x] — they render as checked boxes on GitHub 
 
   </td>
     <td style="width: 40%; vertical-align: top;">
@@ -565,9 +506,9 @@ Hidden...
 **🔭 &nbsp; Vision**
 
 <!-- 🔧 Replace these with your big-picture ambitions -->
-Hidden...
 
-<!-- 🔧 Dream big — this is your public vision board -->
+
+<!-- 🔧 Dream big — this is your public vision board 
 
   </td>
   </tr>
@@ -578,7 +519,7 @@ Hidden...
 > 💬 &nbsp;*"I worked 80H A Week and People called it success-x"*
 
 <br/>
-
+-->
 ---
 
 
@@ -635,7 +576,7 @@ Hidden...
   <i>
     Lying on the grass — surrounded by flowers, <br>
     Clouds in the sky, and nearby the river is flowing.<br>
-    It won't last though bcz the sun is about to set.
+    I think, it won't last though bcz the sun is about to set.
   </i>
 </p>
 
