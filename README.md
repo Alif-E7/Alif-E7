@@ -29,6 +29,8 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
   </a>
 </p>
 
+### Machine Learning and Data
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
@@ -51,6 +53,29 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alif-E7&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
 </div>
+
+---
+
+# 🏆 Achievements & Certifications
+
+| Type | Achievement | Issuer | Year | Verify |
+|:----:|:---|:---|:---:|:---:|
+| 📜 | **Advanced Learning Algorithms** | DeepLearning.AI / Coursera | 2026 | [View certificate](https://coursera.org/share/198a3c31e70fc15391993b2b52119528) |
+| 📜 | **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI / Coursera | 2026 | [View certificate](https://coursera.org) |
+
+These certificates represent my continued work toward building a strong foundation in machine learning and applying it to practical projects.
+
+---
+
+# 🪜 Currently Learning
+
+| 📖 Topic | Progress | Current focus |
+|:---|:---:|:---|
+| **NumPy, Pandas, Matplotlib, and Scikit-Learn** | `█████████░` 90% | Building data and machine-learning projects |
+| **React, Node.js, Express, and MySQL** | `██████░░░░` 60% | Building full-stack applications |
+| **Neural Networks** | `███░░░░░░░` 30% | Learning and exploring through tutorials and experiments |
+| **Deep Learning** | `█░░░░░░░░░` 10% | Getting started with practical implementations |
+| **Computer Vision** | `███░░░░░░░` 30% | Exploring research and applied use cases |
 
 ---
 
