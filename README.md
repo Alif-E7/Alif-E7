@@ -76,7 +76,7 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
 | Type | Achievement | Issuer | Year | Verify |
 |:----:|:---|:---|:---:|:---:|
 | 📜 | **Advanced Learning Algorithms** | DeepLearning.AI / Coursera | 2026 | [View certificate](https://coursera.org/share/198a3c31e70fc15391993b2b52119528) |
-| 📜 | **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI / Coursera | 2026 | [View certificate](https://coursera.org) |
+| 📜 | **Supervised Machine Learning: Regression and Classification** | DeepLearning.AI / Coursera | 2026 | [View certificate]([https://coursera.org](https://coursera.org/share/198a3c31e70fc15391993b2b52119528) |
 
 These certificates represent my continued work toward building a strong foundation in machine learning and applying it to practical projects.
 
