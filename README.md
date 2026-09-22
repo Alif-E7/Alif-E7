@@ -25,9 +25,24 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,tailwind,nodejs,express,mysql,pytorch" alt="Tech stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,flutter,react,tailwind,nodejs,express,mysql,pytorch" alt="C, C++, Python, JavaScript, Dart, Flutter, React, Tailwind CSS, Node.js, Express, MySQL, and PyTorch" />
   </a>
 </p>
+
+### Programming Languages and Frameworks
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### Machine Learning and Data
 
@@ -73,9 +88,25 @@ These certificates represent my continued work toward building a strong foundati
 |:---|:---:|:---|
 | **NumPy, Pandas, Matplotlib, and Scikit-Learn** | `█████████░` 90% | Building data and machine-learning projects |
 | **React, Node.js, Express, and MySQL** | `██████░░░░` 60% | Building full-stack applications |
+| **Dart and Flutter** | `████░░░░░░` 40% | Building cross-platform mobile applications |
 | **Neural Networks** | `███░░░░░░░` 30% | Learning and exploring through tutorials and experiments |
 | **Deep Learning** | `█░░░░░░░░░` 10% | Getting started with practical implementations |
 | **Computer Vision** | `███░░░░░░░` 30% | Exploring research and applied use cases |
+
+---
+
+# 🎯 Goals and Vision
+
+### 📅 Current Goals
+
+- Continue deploying **Class Routine** to university departments.
+- Develop and expand **GSTU Go** with linked university authorities.
+- Build practical projects with **Flutter, Dart, AI, and Computer Vision**.
+- Strengthen my foundations in Deep Learning and Neural Networks.
+
+### 🔭 Vision
+
+To build useful technology that connects people, improves education, and turns practical ideas into reliable products.
 
 ---
 
@@ -140,5 +171,13 @@ Currently being deployed to departments at **Gopalganj Science and Technology Un
 </div>
 
 <br />
+
+<p align="center">
+  <i>
+    Lying on the grass — surrounded by flowers,<br />
+    Clouds in the sky, and nearby the river is flowing.<br />
+    I think, it won't last though bcz the sun is about to set.
+  </i>
+</p>
 
 > *"Competition in worldly increase diverts you, until you end up in your graves. [102:1-2]"*
