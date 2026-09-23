@@ -68,11 +68,7 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
 
 # 🎯 Goals and Vision
 
-- Continue deploying **Class Routine** to university departments.
-- Develop and expand **GSTU Go** with linked university authorities.
-- Build practical projects with **Flutter, Dart, AI, and Computer Vision**.
-
-> To build useful technology that connects people, improves education, and turns practical ideas into reliable products.
+hidden
 
 ---
 
@@ -107,7 +103,7 @@ A university super app connecting students with campus services and university a
   &nbsp;
   <a href="https://t.me/Alif_E7"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/alif-hossain-51096930a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/alif-hossain-51096930"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br />
