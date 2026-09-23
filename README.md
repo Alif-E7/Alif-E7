@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Alif Hossen
+# 👋 Hi, I'm ALiF HOSSEN
 
 <div align="center">
   <a href="https://github.com/Alif-E7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=220&section=header&text=Alif%20Hossen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Animated profile header" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=220&section=header&text=ALiF%20HOSSEN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="ALiF HOSSEN" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=AI+%26+Computer+Vision+Enthusiast;Full-Stack+%26+Mobile+Developer;Building+Practical+Tools+for+University+Communities" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Neural+Network+Enthusiast;Computer+Vision+Researcher+in+Progress;Flutter+Based+App+Developer;Learning+Django+for+AI-Powered+Web+Apps;Exploring+UAV+%26+Drone+Research" alt="Machine Learning, Computer Vision, Flutter, Django, and UAV research" />
 </div>
 
 <div align="center">
@@ -19,41 +19,36 @@
 I'm interested in startups, AI products, innovative partnerships, and Computer Vision research. I build practical AI and web projects that solve real-world problems.
 
 - 🎓 **B.Sc. in CSE** @ Gopalganj Science and Technology University
-- 🤖 Exploring **Machine Learning, Computer Vision, and applied AI**
+- 🤖 Learned **Machine Learning and Neural Networks**; currently learning **Computer Vision**
+- 🌐 Learning **Django** and building **Flutter-based applications**
+- 🚁 Reading research papers on **autonomous aerial vehicles (UAVs/drones)**
 - 🏛️ Developing digital solutions for the university community
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,flutter,react,tailwind,nodejs,express,mysql,pytorch" alt="C, C++, Python, JavaScript, Dart, Flutter, React, Tailwind CSS, Node.js, Express, MySQL, and PyTorch" />
-  </a>
-</p>
-
 ### Programming Languages and Frameworks
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### Machine Learning and Data
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C4C4C?style=flat&logo=seaborn&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+</p>
 
 ---
 
@@ -68,7 +63,7 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
 
 # 🎯 Goals and Vision
 
-hidden
+To create practical AI-powered products, contribute to Computer Vision research, and explore intelligent autonomous systems such as UAVs and drones.
 
 ---
 
@@ -76,7 +71,7 @@ hidden
 
 ## 🎯 Class Routine
 
-An automated university scheduling system that helps departments create conflict-free timetables.
+An automated university scheduling system that helps departments create conflict-free timetables. **This project is currently being used by university departments for routine generation.**
 
 - ⚡ Constraint-based scheduling for teachers and rooms
 - 📂 Excel data import and interactive timetable views
@@ -89,8 +84,7 @@ A university super app connecting students with campus services and university a
 - 🏛️ University services and announcements
 - 🔗 Authority connectivity and campus communication
 - 🧩 Unified workflows in one platform
-
-*No public demos are currently available for these projects.*
+- 🚧 **Project under active development under the mentorship of university authorities**
 
 ---
 
