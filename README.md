@@ -16,18 +16,19 @@
 
 ## 💡 About Me
 
-I'm interested in startups, AI products, innovative partnerships, and Computer Vision research. I build practical AI and web projects that solve real-world problems.
+I'm interested in edge AI for autonomous perception, navigation, and decision-making, and building practical SaaS/web products. Interested in startups and research-to-product partnerships.
 
 - 🎓 **B.Sc. in CSE** @ Gopalganj Science and Technology University
-- 🤖 Learned **Machine Learning and Neural Networks**; currently learning **Computer Vision**
-- 🌐 Learning **Django** and building **Flutter-based applications**
-- 🚁 Reading research papers on **autonomous aerial vehicles (UAVs/drones)**
+- 🤖 Learned **Machine Learning and Neural Networks**; currently learning **Computer Vision**, **Django*.
+- 🚁 Analyzing research papers on **autonomous aerial vehicles (UAVs/drones)**
 - 🏛️ Developing digital solutions for the university community
 
 ---
 
 ## 🛠️ Tech Stack
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,flutter,django,mysql,pytorch,sklearn" alt="C, C++, Python, JavaScript, Dart, Flutter, Django, MySQL, PyTorch, and scikit-learn" />
+</p>
 ### Programming Languages and Frameworks
 
 <p align="center">
@@ -63,7 +64,7 @@ I'm interested in startups, AI products, innovative partnerships, and Computer V
 
 # 🎯 Goals and Vision
 
-To create practical AI-powered products, contribute to Computer Vision research, and explore intelligent autonomous systems such as UAVs and drones.
+hidden
 
 ---
 
@@ -101,6 +102,10 @@ A university super app connecting students with campus services and university a
 </div>
 
 <br />
+.
+.
+.
+<br />
 
 <p align="center">
   <i>
@@ -110,4 +115,6 @@ A university super app connecting students with campus services and university a
   </i>
 </p>
 
+
 > *"Competition in worldly increase diverts you, until you end up in your graves. [102:1-2]"*
+
