@@ -5,7 +5,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00b4d8&height=220&section=header&text=ALiF%20HOSSEN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="ALiF HOSSEN" />
   </a>
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Neural+Network+Enthusiast;Computer+Vision+Researcher+in+Progress;Flutter+Based+App+Developer;Learning+Django+for+AI-Powered+Web+Apps;Exploring+UAV+%26+Drone+Research" alt="Machine Learning, Computer Vision, Flutter, Django, and UAV research" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Machine+Learning+%26+Neural+Network+Enthusiast;Computer+Vision+Researcher+in+Progress;Flutter+Based+App+Developer;Learning+Django+for+AI-Powered+Web+Apps;Autonomous+Perception+and+Navigation+Research" alt="Machine Learning, Computer Vision, Flutter, Django, and autonomous navigation research" />
 </div>
 
 <div align="center">
@@ -27,8 +27,9 @@ I'm interested in edge AI for autonomous perception, navigation, and decision-ma
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart,flutter,django,mysql,pytorch,sklearn" alt="C, C++, Python, JavaScript, Dart, Flutter, Django, MySQL, PyTorch, and scikit-learn" />
+<img src="https://skillicons.dev/icons?i=c,cpp,py,js,nodejs,express,redis,dart,flutter,django,mysql,pytorch,sklearn" alt="C, C++, Python, JavaScript, Node.js, Express, Redis, Dart, Flutter, Django, MySQL, PyTorch, and scikit-learn" />
 </p>
+
 ### Programming Languages and Frameworks
 
 <p align="center">
@@ -36,6 +37,9 @@ I'm interested in edge AI for autonomous perception, navigation, and decision-ma
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -45,10 +49,15 @@ I'm interested in edge AI for autonomous perception, navigation, and decision-ma
 ### Machine Learning and Data
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
+  <img src="https://img.shields.io/badge/Neural%20Networks-6E40C9?style=for-the-badge" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/CNN-8B5CF6?style=for-the-badge" alt="CNN" />
 </p>
 
 ---
@@ -65,27 +74,6 @@ I'm interested in edge AI for autonomous perception, navigation, and decision-ma
 # 🎯 Goals and Vision
 
 hidden
-
----
-
-# 🧰 Featured Projects
-
-## 🎯 Class Routine
-
-An automated university scheduling system that helps departments create conflict-free timetables. **This project is currently being used by university departments for routine generation.**
-
-- ⚡ Constraint-based scheduling for teachers and rooms
-- 📂 Excel data import and interactive timetable views
-- 🤖 AI-assisted conflict diagnosis and 📄 PDF export
-
-## 🚀 GSTU Go
-
-A university super app connecting students with campus services and university authorities.
-
-- 🏛️ University services and announcements
-- 🔗 Authority connectivity and campus communication
-- 🧩 Unified workflows in one platform
-- 🚧 **Project under active development under the mentorship of university authorities**
 
 ---
 
